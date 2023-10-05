@@ -1,6 +1,6 @@
 # Overview
 
-`scraper.py` is a simple web-scraping python scrip that compiles data from the (Yale Review)[https://yalereview.org]. 
+`scraper.py` is a simple web-scraping python scrip that compiles data from the [Yale Review](https://yalereview.org). 
 
 # Usage
 
